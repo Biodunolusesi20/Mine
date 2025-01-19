@@ -5,7 +5,7 @@ Hello, I am **Biodun Olusesi**, an experienced **Data Analyst** with a proven ab
 I bring a unique perspective from my diverse experiences across **sales**, **operations**, **finance**, **medical fields**, and **customer service**, enabling me to deliver data-driven solutions tailored to various industries. My adaptability and cross-functional expertise allow me to effectively bridge the gap between technical analysis and business objectives.
 
 
-##SKILLS
+## SKILLS
 **Technical Skills**: Python, R, SQL, Excel, Tableau, Power BI, Hadoop, or Spark.
 **Analytical Skills**: Statistical analysis, hypothesis testing, predictive modeling.
 **Soft Skills**: Communication, problem-solving, teamwork, and critical thinking.
